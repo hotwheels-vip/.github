@@ -1,2 +1,1 @@
-# .github
-GitHub readme
+Hello bug 🐛
